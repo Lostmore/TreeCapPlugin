@@ -10,7 +10,30 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+## Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Package #
+build.gradle
+pom.xml
+*.
+bin/
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+.gradle
+build/
+.idea/
 *.jar
 *.war
 *.nar

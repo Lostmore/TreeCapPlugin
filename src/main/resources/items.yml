@@ -1,0 +1,327 @@
+items:
+  WAxe_1:
+    material: WOOD_AXE
+    name: "&7&lДубовый колун"
+    lore:
+      - "&3&lПредмет каждого новичка"
+      - "&cПодходит для рубки дуба"
+    enchantments:
+      DIG_SPEED: 1
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 1
+    nextLevel: WAxe_2
+  WAxe_2:
+    material: WOOD_AXE
+    name: "&7&lЛесной топор"
+    lore:
+      - "&cТопор 2 уровня"
+      - "&cПодходит для рубки дуба"
+    enchantments:
+      DIG_SPEED: 3
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 2
+    nextLevel: WAxe_3
+  WAxe_3:
+    material: WOOD_AXE
+    name: "&7&lДревесный рубака"
+    lore:
+      - "&cТопор 3 уровня"
+      - "&cПодходит для рубки дуба"
+    enchantments:
+      DIG_SPEED: 5
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 3
+    nextLevel: SAxe_1
+  SAxe_1:
+    material: STONE_AXE
+    name: "&7&lКаменный топор"
+    lore:
+      - "&cТопор 1 уровня"
+      - "&cПодходит для рубки березы"
+    enchantments:
+      DIG_SPEED: 1
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 4
+    nextLevel: SAxe_2
+  SAxe_2:
+    material: STONE_AXE
+    name: "&7&lБерезовый колун"
+    lore:
+      - "&cТопор 2 уровня"
+      - "&cПодходит для рубки березы"
+    enchantments:
+      DIG_SPEED: 2
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 5
+    nextLevel: SAxe_3
+  SAxe_3:
+    material: STONE_AXE
+    name: "&7&lКаменный лесоруб"
+    lore:
+      - "&cТопор 3 уровня"
+      - "&cПодходит для рубки камня"
+    enchantments:
+      DIG_SPEED: 3
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 6
+    nextLevel: SAxe_4
+  SAxe_4:
+    material: STONE_AXE
+    name: "&7&lГранитный топор"
+    lore:
+      - "&cТопор 4 уровня"
+      - "&cПодходит для рубки гранита"
+    enchantments:
+      DIG_SPEED: 4
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 7
+    nextLevel: IAxe_1
+  IAxe_1:
+    material: IRON_AXE
+    name: "&7&lЖелезный топор"
+    lore:
+      - "&cТопор 1 уровня"
+      - "&cПодходит для рубки ПРИДУТЬ ДЕРЕВО"
+    enchantments:
+      DIG_SPEED: 0
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 8
+    nextLevel: IAxe_2
+  IAxe_2:
+    material: IRON_AXE
+    name: "&7&lСтальной резак"
+    lore:
+      - "&cТопор 2 уровня"
+      - "&cПодходит для рубки ПРИДУТЬ ДЕРЕВО"
+    enchantments:
+      DIG_SPEED: 1
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 9
+    nextLevel: IAxe_3
+  IAxe_3:
+    material: IRON_AXE
+    name: "&7&lМеталлический лесоруб"
+    lore:
+      - "&cТопор 3 уровня"
+      - "&cПодходит для рубки ПРИДУТЬ ДЕРЕВО"
+    enchantments:
+      DIG_SPEED: 2
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 10
+    nextLevel: IAxe_4
+  IAxe_4:
+    material: IRON_AXE
+    name: "&7&lЖелезный дровосек"
+    lore:
+      - "&cТопор 4 уровня"
+      - "&cПодходит для рубки ПРИДУТЬ ДЕРЕВО"
+    enchantments:
+      DIG_SPEED: 3
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 11
+    nextLevel: GAxe_1
+  GAxe_1:
+    material: GOLD_AXE
+    name: "&7&lЗолотой топор"
+    lore:
+      - "&cТопор 1 уровня"
+      - "&cПодходит для рубки тропического дерева"
+    enchantments:
+      DIG_SPEED: 0
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 12
+    nextLevel: GAxe_2
+  GAxe_2:
+    material: GOLD_AXE
+    name: "&7&lТропический резак"
+    lore:
+      - "&cТопор 2 уровня"
+      - "&cПодходит для рубки тропического дерева"
+    enchantments:
+      DIG_SPEED: 1
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 13
+    nextLevel: GAxe_3
+  GAxe_3:
+    material: GOLD_AXE
+    name: "&7&lЗолотой лесоруб"
+    lore:
+      - "&cТопор 3 уровня"
+      - "&cПодходит для рубки тропического дерева"
+    enchantments:
+      DIG_SPEED: 2
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 14
+    nextLevel: GAxe_4
+  GAxe_4:
+    material: GOLD_AXE
+    name: "&7&lЗолотой колун"
+    lore:
+      - "&cТопор 4 уровня"
+      - "&cПодходит для рубки тропического дерева"
+    enchantments:
+      DIG_SPEED: 3
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 15
+    nextLevel: GAxe_5
+  GAxe_5:
+    material: GOLD_AXE
+    name: "&7&lТропический дровосек"
+    lore:
+      - "&cТопор 5 уровня"
+      - "&cПодходит для рубки тропического дерева"
+    enchantments:
+      DIG_SPEED: 4
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 16
+    nextLevel: DAxe_1
+  DAxe_1:
+    material: DIAMOND_AXE
+    name: "&7&lАлмазный резак"
+    lore:
+      - "&cТопор 1 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 0
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 17
+    nextLevel: DAxe_2
+  DAxe_2:
+    material: DIAMOND_AXE
+    name: "&7&lКристальный топор"
+    lore:
+      - "&cТопор 2 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 1
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 18
+    nextLevel: DAxe_3
+  DAxe_3:
+    material: DIAMOND_AXE
+    name: "&7&lБриллиантовый топор"
+    lore:
+      - "&cТопор 3 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 2
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 19
+    nextLevel: DAxe_4
+  DAxe_4:
+    material: DIAMOND_AXE
+    name: "&7&lАлмазный лесоруб"
+    lore:
+      - "&cТопор 4 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 3
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 20
+    nextLevel: DAxe_5
+  DAxe_5:
+    material: DIAMOND_AXE
+    name: "&7&lКристальный дровосек"
+    lore:
+      - "&cТопор 5 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 4
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 21
+    nextLevel: DAxe_6
+  DAxe_6:
+    material: DIAMOND_AXE
+    name: "&7&lБриллиантовый колун"
+    lore:
+      - "&cТопор 6 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 5
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 22
+    nextLevel: DAxe_7
+  DAxe_7:
+    material: DIAMOND_AXE
+    name: "&7&lАлмазный резчик"
+    lore:
+      - "&cТопор 7 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 6
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 23
+    nextLevel: DAxe_8
+  DAxe_8:
+    material: DIAMOND_AXE
+    name: "&7&lКристальный резак"
+    lore:
+      - "&cТопор 8 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 7
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 24
+    nextLevel: DAxe_9
+  DAxe_9:
+    material: DIAMOND_AXE
+    name: "&7&lБриллиантовый дровосек"
+    lore:
+      - "&cТопор 9 уровня"
+      - "&cПодходит для рубки всего"
+    enchantments:
+      DIG_SPEED: 8
+    hide_flags: false
+    unbreakable: true
+    hide_enchantments: false
+    globalLevel: 25
+
+

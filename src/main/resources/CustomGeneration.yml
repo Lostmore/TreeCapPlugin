@@ -1,0 +1,13 @@
+acacia_plant_locations:
+  - world: world
+    x: -919.0
+    y: 104.0
+    z: 268.0
+  - world: world
+    x: -919.0
+    y: 104.0
+    z: 262.0
+  - world: world
+    x: -919.0
+    y: 104.0
+    z: 255.0

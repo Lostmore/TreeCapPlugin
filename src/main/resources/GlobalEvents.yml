@@ -1,0 +1,9 @@
+# GlobalEvents.yml
+
+events:
+  thunderstorm:
+    enabled: true
+    effects:
+      - type: DOUBLE_DAMAGE_WOOD
+        description: "Увеличение урона при разрушении деревьев во время грозы"
+        multiplier: 1.0

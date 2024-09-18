@@ -1,0 +1,200 @@
+upgrades:
+  WAxe_1:
+    current_global_level: 1
+    cost: 100
+    required_blocks:
+      - material: WOOD
+        amount: 10
+    nextLevel: WAxe_2
+
+  WAxe_2:
+    current_global_level: 2
+    cost: 150
+    required_blocks:
+      - material: WOOD
+        amount: 15
+    nextLevel: WAxe_3
+
+  WAxe_3:
+    current_global_level: 3
+    cost: 200
+    required_blocks:
+      - material: WOOD
+        amount: 20
+    nextLevel: SAxe_1
+
+  SAxe_1:
+    current_global_level: 4
+    cost: 250
+    required_blocks:
+      - material: STONE
+        amount: 10
+    nextLevel: SAxe_2
+
+  SAxe_2:
+    current_global_level: 5
+    cost: 300
+    required_blocks:
+      - material: STONE
+        amount: 15
+    nextLevel: SAxe_3
+
+  SAxe_3:
+    current_global_level: 6
+    cost: 350
+    required_blocks:
+      - material: STONE
+        amount: 20
+    nextLevel: SAxe_4
+
+  SAxe_4:
+    current_global_level: 7
+    cost: 400
+    required_blocks:
+      - material: STONE
+        amount: 25
+    nextLevel: IAxe_1
+
+  IAxe_1:
+    current_global_level: 8
+    cost: 500
+    required_blocks:
+      - material: IRON_INGOT
+        amount: 5
+    nextLevel: IAxe_2
+
+  IAxe_2:
+    current_global_level: 9
+    cost: 550
+    required_blocks:
+      - material: IRON_INGOT
+        amount: 10
+    nextLevel: IAxe_3
+
+  IAxe_3:
+    current_global_level: 10
+    cost: 600
+    required_blocks:
+      - material: IRON_INGOT
+        amount: 15
+    nextLevel: IAxe_4
+
+  IAxe_4:
+    current_global_level: 11
+    cost: 650
+    required_blocks:
+      - material: IRON_INGOT
+        amount: 20
+    nextLevel: GAxe_1
+
+  GAxe_1:
+    current_global_level: 12
+    cost: 750
+    required_blocks:
+      - material: GOLD_INGOT
+        amount: 5
+    nextLevel: GAxe_2
+
+  GAxe_2:
+    current_global_level: 13
+    cost: 800
+    required_blocks:
+      - material: GOLD_INGOT
+        amount: 10
+    nextLevel: GAxe_3
+
+  GAxe_3:
+    current_global_level: 14
+    cost: 850
+    required_blocks:
+      - material: GOLD_INGOT
+        amount: 15
+    nextLevel: GAxe_4
+
+  GAxe_4:
+    current_global_level: 15
+    cost: 900
+    required_blocks:
+      - material: GOLD_INGOT
+        amount: 20
+    nextLevel: GAxe_5
+
+  GAxe_5:
+    current_global_level: 16
+    cost: 950
+    required_blocks:
+      - material: GOLD_INGOT
+        amount: 25
+    nextLevel: DAxe_1
+
+  DAxe_1:
+    current_global_level: 17
+    cost: 1100
+    required_blocks:
+      - material: DIAMOND
+        amount: 1
+    nextLevel: DAxe_2
+
+  DAxe_2:
+    current_global_level: 18
+    cost: 1150
+    required_blocks:
+      - material: DIAMOND
+        amount: 2
+    nextLevel: DAxe_3
+
+  DAxe_3:
+    current_global_level: 19
+    cost: 1200
+    required_blocks:
+      - material: DIAMOND
+        amount: 3
+    nextLevel: DAxe_4
+
+  DAxe_4:
+    current_global_level: 20
+    cost: 1250
+    required_blocks:
+      - material: DIAMOND
+        amount: 4
+    nextLevel: DAxe_5
+
+  DAxe_5:
+    current_global_level: 21
+    cost: 1300
+    required_blocks:
+      - material: DIAMOND
+        amount: 5
+    nextLevel: DAxe_6
+
+  DAxe_6:
+    current_global_level: 22
+    cost: 1350
+    required_blocks:
+      - material: DIAMOND
+        amount: 6
+    nextLevel: DAxe_7
+
+  DAxe_7:
+    current_global_level: 23
+    cost: 1400
+    required_blocks:
+      - material: DIAMOND
+        amount: 7
+    nextLevel: DAxe_8
+
+  DAxe_8:
+    current_global_level: 24
+    cost: 1450
+    required_blocks:
+      - material: DIAMOND
+        amount: 8
+    nextLevel: DAxe_9
+
+  DAxe_9:
+    current_global_level: 25
+    cost: 1500
+    required_blocks:
+      - material: DIAMOND
+        amount: 9
+    nextLevel: null

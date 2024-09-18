@@ -1,0 +1,45 @@
+name: TreeCapPlugin
+version: '${project.version}'
+main: net.treechopperplugin.TreeCapPlugin
+api-version: 1.12
+depend: [Citizens, Vault]
+commands:
+  giveitem:
+    description: Gives a custom item to the player
+    usage: /giveitem <item_id>
+  reloaditems:
+    description: Reloads the items configuration and updates items for all players
+    usage: /reloaditems
+  upgrade:
+    description: Upgrade your tool
+    usage: /upgrade
+  setuphero:
+    description: Увеличивает уровень прокачки
+    permission: uphero.use
+    permission-message: У вас нет прав для использования этой команды.
+  village:
+    description: "Teleport to the village in another world."
+    usage: "/village"
+  return:
+    description: "Return to your previous location before teleporting."
+    usage: "/return"
+  sawmill:
+    description: Открывает GUI лесопилки или управляет ресурсами.
+    usage: /<command> [contribute|progress]
+  upgradehero:
+    description: Открывает меню улучшений героя.
+    usage: /<command>
+  savenpcpos:
+    description: Сохраняет позицию указанного NPC
+    usage: /savenpcpos <NPC_ID>
+  setprogress:
+    description: Установить прогресс на заданных координатах
+    usage: /setprogress <x> <y> <z> <progress>
+    permission: treechopper.setprogress
+  hogo:
+    description: Управление голограммами
+    usage: /hogo <list|setprogress <ID> <значение>>
+    permission: treechopper.hogo
+  sawmillDrop:
+    description: Открывает инвентарь для пожертвования ресурсов
+    usage: /<command>

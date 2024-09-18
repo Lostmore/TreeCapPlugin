@@ -1,0 +1,20 @@
+SharpBlades:
+  speedIncreasePerLevel: 10
+  maxLevel: 5
+
+LumberjackMastery:
+  woodIncreasePerLevel: 5
+  maxLevel: 5
+
+StrikePrecision:
+  critChanceIncreasePerLevel: 3
+  maxLevel: 5
+
+LumberjackStrength:
+  critDamageIncrease: 50
+  maxLevel: 1
+
+NatureCall:
+  speedBoost: 25
+  duration: 60
+  maxLevel: 1
